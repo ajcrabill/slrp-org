@@ -1,4 +1,5 @@
 ---
+layout: base
 title: Home
 summary: "This is only the beginning"
 toplevel: Main
