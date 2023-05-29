@@ -1,2 +1,4 @@
-theme: 
+theme: minima
 title: "Student-Led Restorative Practices"
+gems:
+- jekyll-seo-tag
