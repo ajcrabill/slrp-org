@@ -1,9 +1,9 @@
 ---
 title: Home
 summary: "This is only the beginning"
-toplevel: Main
+toplevel: Resources
 ---
 
 
-<h2>Hello World</h2>
+<h2>Helpful Links</h2>
 
