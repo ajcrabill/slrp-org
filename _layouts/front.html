@@ -1,0 +1,70 @@
+<!-- START OF BASE.HTML BEFORE HEAD.HTML -->
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <file src="layout/base.html" />
+
+<!-- END OF BASE.HTML BEFORE HEAD.HTML -->
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+
+      <!-- ======= Hero Section ======= -->
+        <section id="hero" class="d-flex align-items-center">
+
+          <div class="container" data-aos="zoom-out" data-aos-delay="100">
+            <div class="row"><center>
+              <div class="col-xl-auto">
+                <h1>Student outcomes don't change<br/>until adult behaviors change.</h1><br/>
+                <h2>Starting with us as school board members.<br/>
+                That's easier said than done, though.<br/>
+                And clear answers about "how" are hard to come by.<br/><br/>
+                <strong>We want to help change that.</strong></h2><br/>
+                <a href="/join" class="btn-get-started scrollto">Join Us!</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="/about" class="btn-get-started scrollto">Learn More</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="/resources/instructions" class="btn-get-started scrollto">Coding Manual</a>
+              </div>
+            </center></div>
+          </div>
+
+        </section>
+      <!-- End Hero -->
+        
+        <main id="main"  class="page-content" aria-label="Content">
+          <div class="wrapper">
+
+      
+          <section class="inner-page">
+            <div class="container"> 
+<!-- BASE.HTML BEFORE CONTENT -->
+        {{ content }}
+<!-- BASE.HTML AFTER CONTENT -->
+              </div>
+              </section>
+
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+<!-- Vendor JS Files -->
+<script src="/assets/vendor/purecounter/purecounter_vanilla.js"></script>
+<script src="/assets/vendor/aos/aos.js"></script>
+<script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="/assets/vendor/php-email-form/validate.js"></script>
+
+<!-- Template Main JS File -->
+<script src="/assets/js/main.js"></script>
+
+<!-- START OF BASE.HTML AFTER FOOTER.HTML -->
+  </body>
+
+</html>
+<!-- END OF BASE.HTML AFTER FOOTER.HTML -->
