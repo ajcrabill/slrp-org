@@ -25,7 +25,7 @@ layout: base
           <a class="post-link" href="{{ post.url | relative_url }}">
             <!--{{ post.title | escape }}-->
 
-            {% if post.title And post.title != "" And post.title != nil %}
+            {% if post.title %}
               {{post.title}}
             {% else %}
               {{post.url}}
