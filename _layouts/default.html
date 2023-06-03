@@ -28,7 +28,7 @@ layout: base
             {% if post.title And post.title != "" And post.title != nil %}
               {{post.title}}
             {% else %}
-              {{page.title}}
+              {{post.url}}
             {% endif %}
           </a>
         </h3>
