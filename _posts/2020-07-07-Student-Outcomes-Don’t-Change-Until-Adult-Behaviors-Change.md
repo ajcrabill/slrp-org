@@ -3,7 +3,6 @@ layout: post
 title: "Student outcomes don't change until adult behaviors change"
 author: ajc
 toplevel: Blog
-categories: "student outcomes" "adult behavior change" SLRP SOFG AJC
 tags: "student outcomes" "adult behavior change" SLRP SOFG AJC
 ---
 
