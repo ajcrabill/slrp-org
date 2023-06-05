@@ -2116,6 +2116,9 @@ section {
   text-decoration: none;
 }
 
+.footer-contact .email-addresses a, .footer-contact .email-addresses a:visited {
+  color: #0c9;
+}
 
 .footer-contact .email-addresses a:hover {
   color:#999;
