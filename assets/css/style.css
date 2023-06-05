@@ -72,7 +72,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #aaa;
+  background: #ddd;
   transition: all 0.5s;
   z-index: 997;
   padding: 20px 0;
@@ -491,7 +491,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #2d3e6e;
+  background: #09c;
   min-height: 40px;
   margin-top: 82px;
   color: #fff;
@@ -1958,12 +1958,12 @@ section {
 #footer {
   color: #fff;
   font-size: 14px;
-  background: #111111;
+  background: #069;
 }
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #2d3e6e;
+  background: #069;
 }
 
 #footer .footer-top .footer-contact {
