@@ -20,7 +20,7 @@ layout: base
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
-        <h5>
+        <strong>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
 
@@ -29,9 +29,9 @@ layout: base
             {% else %}
               {{ post.url }}
             {% endif %}-->
-          </a>
-        </h5>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+          </a> 
+        </strong>
+        <span class="post-meta">({{ post.date | date: date_format }})</span>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
