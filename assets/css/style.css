@@ -386,7 +386,13 @@ h6 {
 #hero h2 {
   color: #fff;
   margin: 10px 0 0 0;
-  font-size: 24px;
+  font-size: 30px;
+}
+
+#hero h4 {
+  color: #ccc;
+  margin: 10px 0 0 0;
+  font-size: 20px;
 }
 
 #hero .btn-get-started {
