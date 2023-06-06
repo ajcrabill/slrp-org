@@ -402,10 +402,10 @@ h6 {
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 10px 60px;
+  padding: 10px 40px;
   border-radius: 4px;
   transition: 0.5s;
-  margin-top: 30px; 
+  margin: 40px; 
   color: #fff; 
   background: #2596be;
   border: 2px solid #2596be;
