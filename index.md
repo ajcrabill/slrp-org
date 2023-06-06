@@ -5,8 +5,8 @@ summary: "This is only the beginning"
 toplevel: Main
 ---
 
-<h2>Authentic student leadership is transformative.<br/>
-Authentic restorative practices are transformative.</h2><br/>
+<h2><strong>Authentic student leadership is transformative.<br/>
+Authentic restorative practices are transformative.</strong></h2><br/>
 
 <h4>We are committed to merging and deploying both.<br/>
 When we trust student to lead in a restorative way,<br/>
