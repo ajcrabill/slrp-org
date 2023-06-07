@@ -67,7 +67,7 @@ All too often, schools instruct staff that this is the way they are going to do 
 
 <h5>Kotter's 8 Mistakes</h5>
 Vision Mistakes
-<ul>
+<ol>
 <li>Allowing Complacency
 <ul>
 <li>Not establishing a great enough sense of urgency; not making a clear statement that doing things the way we do them is no longer acceptable.</li>
@@ -101,11 +101,11 @@ Vision Mistakes
 <li>Failing to treat people affected by the change process fairly</li>
 <li>Failing to indicate whether proposed solutions align with the change initiatives</li>
 </ul></li>
-</ul><br/><br/>
+</ol><br/>
 
 
 Implementation Mistakes<br/>
-<ul>
+<ol start="5">
 <li>Failing To Empower Others To Act On The Vision And To Remove Barriers
 <ul>
 <li>Failing to confront and remove obstacles to the new vision</li>
@@ -136,5 +136,5 @@ Implementation Mistakes<br/>
 <li>Not demonstrating how the change initiative has had a positive impact</li>
 <li>Failing to employ people who personify the change initiative</li>
 </ul><br/></li>
-</ul><br/>
+</ol><br/>
 
