@@ -114,21 +114,21 @@ Implementation Mistakes<br/>
 <li>Failing to empower others or to hear the creative ideas that change processes generate</li>
 </ul><br/></li>
 
-<ul>
+
 <li>Failing To Plan For And Generate Short-Term Wins
 <ul>
 <li>Not systematically planning for and creating short-term wins</li>
 <li>No evidence of tangible change within 12-24 months</li>
 </ul><br/></li>
 
-<ul>
+
 <li>Declaring Victory Too Soon
 <ul>
 <li>Urgency of change not intense</li>
 <li>Failing to understand that renewal efforts take years rather than months or a one-off session</li>
 </ul><br/></li>
 
-<ul>
+
 <li>Failing To Anchor The New Approaches Into The Culture Of The School -- Making It Stick
 <ul>
 <li>Not anchoring change in the organization’s culture, ‘the way we do things around here’</li>
