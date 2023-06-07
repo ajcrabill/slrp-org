@@ -84,7 +84,7 @@ background-color: #1C6D36;
 </div>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-sha1/0.6.0/sha1.min.js"></script>
-    <script type="text/javascript">
+<script type="text/javascript">
    "use strict"
    var button = document.querySelectorAll('[data-id="button"]')
    var password = document.querySelectorAll('[data-id="password"]')
