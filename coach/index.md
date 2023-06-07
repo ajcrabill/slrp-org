@@ -17,6 +17,6 @@ Certification as an SLRP Coach last three years and requires a deep understandin
 </ul><br/>
 
 Unless there is a demonstration of learning (DoL) defined in the competency, each competency type relies on a default DoL. The default DoL for knowledge competencies is a one page writing. The default DoL for skills competencies is a written or video artifact. The default DoL for mindset competencies is coach observation with rubric. Alternative DoLs can be determined by a Senior Coach.
+<br/><br/>
 
-
-
+For more information, please <a href="/contact">contact us</a>.
