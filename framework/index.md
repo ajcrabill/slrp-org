@@ -66,7 +66,7 @@ This document is best used by the RLT with guidance from a facilitator specifica
   <td class="NotHeader">Does Not Meet Restorative Focus (0pts)</td>
   <td class="ApproachingHeader">Approaching Restorative Focus (5pts)</td>
   <td class="MeetingHeader">Meeting Restorative Focus (10pts)</td>
-  <td class="MastersHeader">Mastering Restorative Focus (20pts)</td>
+  <td class="MasteringHeader">Mastering Restorative Focus (20pts)</td>
       </tr>
   
 <tr>
@@ -162,7 +162,7 @@ Next Step, Who's Responsible & By When:
   <td class="NotHeader">Does Not Meet Restorative Focus (0pts)</td>
   <td class="ApproachingHeader">Approaching Restorative Focus (5pts)</td>
   <td class="MeetingHeader">Meeting Restorative Focus (10pts)</td>
-  <td class="MastersHeader">Mastering Restorative Focus (20pts)</td>
+  <td class="MasteringHeader">Mastering Restorative Focus (20pts)</td>
       </tr>
   
 <tr>
@@ -262,7 +262,7 @@ Next Step, Who's Responsible & By When:
   <td class="NotHeader">Does Not Meet Restorative Focus (0pts)</td>
   <td class="ApproachingHeader">Approaching Restorative Focus (5pts)</td>
   <td class="MeetingHeader">Meeting Restorative Focus (10pts)</td>
-  <td class="MastersHeader">Mastering Restorative Focus (15pts)</td>
+  <td class="MasteringHeader">Mastering Restorative Focus (15pts)</td>
       </tr>
   
 <tr>
@@ -367,7 +367,7 @@ Next Step, Who's Responsible & By When:
   <td class="NotHeader">Does Not Meet Restorative Focus (0pts)</td>
   <td class="ApproachingHeader">Approaching Restorative Focus (5pts)</td>
   <td class="MeetingHeader">Meeting Restorative Focus (10pts)</td>
-  <td class="MastersHeader">Mastering Restorative Focus (15pts)</td>
+  <td class="MasteringHeader">Mastering Restorative Focus (15pts)</td>
       </tr>
   
 <tr>
@@ -476,7 +476,7 @@ Next Step, Who's Responsible & By When:
   <td class="NotHeader">Does Not Meet Restorative Focus (0pts)</td>
   <td class="ApproachingHeader">Approaching Restorative Focus (5pts)</td>
   <td class="MeetingHeader">Meeting Restorative Focus (10pts)</td>
-  <td class="MastersHeader">Mastering Restorative Focus (15pts)</td>
+  <td class="MasteringHeader">Mastering Restorative Focus (15pts)</td>
       </tr>
   
 <tr>
@@ -584,7 +584,7 @@ Next Step, Who's Responsible & By When:
   <td class="NotHeader">Does Not Meet Restorative Focus (0pts)</td>
   <td class="ApproachingHeader">Approaching Restorative Focus (5pts)</td>
   <td class="MeetingHeader">Meeting Restorative Focus (10pts)</td>
-  <td class="MastersHeader">Mastering Restorative Focus (15pts)</td>
+  <td class="MasteringHeader">Mastering Restorative Focus (15pts)</td>
       </tr>
   
 <tr>
