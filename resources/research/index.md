@@ -1,8 +1,8 @@
 ---
 layout: base
-title: "Evaluating Research"
+title: Evaluating Research
 summary: "This helps evaluate the utility of research."
-toplevel: Research
+toplevel: Resources
 toplevellink: /resources
 ---
 
