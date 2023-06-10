@@ -36,7 +36,7 @@ toplevel: Resources
 <li><a href="http://www.schottfoundation.org/restorative-practices">Schott Foundation</a></li> 
 <li><a href="http://www.momentousinstitute.org">Momentous Institute</a></li>  
 <li><a href="http://www.rjoyoakland.org">Restorative Justice for Oakland Youth</a></li> 
-<li><a href="http://www.effectiveschoolboards.com">Effective School Boards Framework</a>, EffectiveSchoolBoards.com</li>
+<li><a href="http://www.effectiveschoolboards.com">Effective School Boards Framework</a></li>
 </ul><br/>
 
 
