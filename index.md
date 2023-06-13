@@ -9,7 +9,7 @@ toplevel: Main
 Authentic restorative practices are transformative.</strong></h2><br/>
 
 <h4>We are committed to merging and deploying both.<br/>
-When we trust student to lead in a restorative way,<br/>
+When we trust students to lead in a restorative way,<br/>
 powerful things can happen. But schools rarely do.<br/><br/>
 <strong>We want to help change that.</strong></h4><br/>
 
