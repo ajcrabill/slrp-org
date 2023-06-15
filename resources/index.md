@@ -16,6 +16,8 @@ toplevel: Resources
 
 <h5>Research</h5>
 <ul>
+<li><a href="https://www.jstor.org/stable/1163337">The Impact of Peer Mediation Training</a>, David W Johnson, Roger Johnson, Bruce Dudley, Marty Ward and Douglas Magnuson</li>
+
 <li><a href="https://irjrd.org/files/2016/01/Year-3-FINAL-Ed-White-report.pdf">North East ISD - Ed White Middle School Restorative Discipline Evaluation</a>, Marilyn Armour</li>
 
 <li><a href="https://jprc.wested.org/wp-content/uploads/2016/02/RJ_Literature-Review_20160217.pdf">Restorative Justice in U.S. Schools: A Research Review</a>, Trevor Fronius, Hannah Persson, Sarah Guckenburg, Nancy Hurley, Anthony Petrosino</li>
