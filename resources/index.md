@@ -14,6 +14,20 @@ toplevel: Resources
 <li><a href="/resources/research">Evaluating Research</a></li>
 </ul><br/>
 
+
+<h5>Online Resources</h5>
+<ul>
+<li><a href="http://www.cnvc.org/learn/nvc-foundations">Center for Non-Violent Communication</a></li>
+<li><a href="http://www.traumainformedcareproject.org">Trauma Informed Care Project</a></li> 
+<li><a href="http://www.samhsa.gov/nctic">National Center for Trauma-informed Care</a></li>
+<li><a href="https://www.irjrd.org">Institute for Restorative Justice & Restorative Dialogue</a></li>  
+<li><a href="http://www.schottfoundation.org/restorative-practices">Schott Foundation</a></li> 
+<li><a href="http://www.momentousinstitute.org">Momentous Institute</a></li>  
+<li><a href="http://www.rjoyoakland.org">Restorative Justice for Oakland Youth</a></li> 
+<li><a href="http://www.effectiveschoolboards.com">Effective School Boards Framework</a>, EffectiveSchoolBoards.com</li>
+</ul><br/>
+
+
 <h5>Research</h5>
 <ul>
 <li><a href="https://www.jstor.org/stable/1163337">The Impact of Peer Mediation Training</a>, David W Johnson, Roger Johnson, Bruce Dudley, Marty Ward and Douglas Magnuson</li>
@@ -27,18 +41,6 @@ toplevel: Resources
 <li><a href="http://sophia.stkate.edu/cgi/viewcontent.cgi?article=1565&context=msw_papers">Restorative Practices in the School Setting: A Systematic Review</a>, Laura Byer</li>
 </ul><br/>
 
-
-<h5>Online Resources</h5>
-<ul>
-<li><a href="http://www.cnvc.org/learn/nvc-foundations">Center for Non-Violent Communication</a></li>
-<li><a href="http://www.traumainformedcareproject.org">Trauma Informed Care Project</a></li> 
-<li><a href="http://www.samhsa.gov/nctic">National Center for Trauma-informed Care</a></li>
-<li><a href="https://www.irjrd.org">Institute for Restorative Justice & Restorative Dialogue</a></li>  
-<li><a href="http://www.schottfoundation.org/restorative-practices">Schott Foundation</a></li> 
-<li><a href="http://www.momentousinstitute.org">Momentous Institute</a></li>  
-<li><a href="http://www.rjoyoakland.org">Restorative Justice for Oakland Youth</a></li> 
-<li><a href="http://www.effectiveschoolboards.com">Effective School Boards Framework</a>, EffectiveSchoolBoards.com</li>
-</ul><br/>
 
 <h5>Related Media</h5>
 <ul>
