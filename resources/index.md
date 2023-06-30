@@ -15,6 +15,19 @@ toplevel: Resources
 </ul><br/>
 
 
+<h5>Related Media</h5>
+<ul>
+            <li><a href="https://www.dispatch.com/story/special/2023/05/05/student-project-matt-barnes-feels-student-led-conflict-resolution-needed-in-schools-angel-pinto/70170843007/">Student-led Conflict Resolution</a></li>
+            <li><a href="https://twitter.com/mnicholson_mike/status/1657194523213086721">Student Panel</a></li>
+            <li><a href="https://podcasts.apple.com/us/podcast/the-assistant-principal-podcast/id1582998564?i=1000617757795">The Assistant Principal Podcast: Retribution vs Restoration</a></li>
+            <li><a href="https://podcasts.apple.com/us/podcast/episode-15-school-transformation-begins-with-the-adults/id1653176434?i=1000613201573">Schoolin' Around: School Transformation Begins with Adults</a></li>
+            <li><a href="https://www.besproutable.com/podcasts/eps-391-navigating-school-boards-with-aj-crabill/">Joyful Courage: Navigating School Boards</a></li>
+            <li><a href="https://buzzingwithmsb.libsyn.com/ep-133">Buzzing with Ms. B: Changing Adult Mindsets</a></li>
+            <li><a href="https://podcasts.apple.com/us/podcast/design-cast/id1247751652?i=1000612010298">Design Cast: Restorative Justice</a></li>
+            <li><a href="https://podcasts.apple.com/us/podcast/123-systems-from-school-board-down-to-the-teacher-all/id1549859943?i=1000615252261">All Focused On Learning</a></li>
+</ul><br/>
+
+
 <h5>Online Resources</h5>
 <ul>
 <li><a href="http://www.cnvc.org/learn/nvc-foundations">Center for Non-Violent Communication</a></li>
@@ -42,17 +55,6 @@ toplevel: Resources
 </ul><br/>
 
 
-<h5>Related Media</h5>
-<ul>
-            <li><a href="https://www.dispatch.com/story/special/2023/05/05/student-project-matt-barnes-feels-student-led-conflict-resolution-needed-in-schools-angel-pinto/70170843007/">Student-led Conflict Resolution</a></li>
-            <li><a href="https://twitter.com/mnicholson_mike/status/1657194523213086721">Student Panel</a></li>
-            <li><a href="https://podcasts.apple.com/us/podcast/the-assistant-principal-podcast/id1582998564?i=1000617757795">The Assistant Principal Podcast: Retribution vs Restoration</a></li>
-            <li><a href="https://podcasts.apple.com/us/podcast/episode-15-school-transformation-begins-with-the-adults/id1653176434?i=1000613201573">Schoolin' Around: School Transformation Begins with Adults</a></li>
-            <li><a href="https://www.besproutable.com/podcasts/eps-391-navigating-school-boards-with-aj-crabill/">Joyful Courage: Navigating School Boards</a></li>
-            <li><a href="https://buzzingwithmsb.libsyn.com/ep-133">Buzzing with Ms. B: Changing Adult Mindsets</a></li>
-            <li><a href="https://podcasts.apple.com/us/podcast/design-cast/id1247751652?i=1000612010298">Design Cast: Restorative Justice</a></li>
-            <li><a href="https://podcasts.apple.com/us/podcast/123-systems-from-school-board-down-to-the-teacher-all/id1549859943?i=1000615252261">All Focused On Learning</a></li>
-</ul>
 
 <h5>Recommended Books</h5>
 <ul>
@@ -74,5 +76,5 @@ toplevel: Resources
 <li>Who Killed Change, Pat Zigarmi & Ken Blanchard</li>
 <li>The Fifth Discipline, Peter M. Senge </li>
 <li>Influencer, Joseph Grenny, Kerry Patterson, David Maxfield, Ron McMillan, & Al Switzler </li>
-</ul>
+</ul><br/>
 
