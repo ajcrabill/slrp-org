@@ -44,6 +44,7 @@ toplevel: Resources
 <ul>
             <li><a href="https://www.dispatch.com/story/special/2023/05/05/student-project-matt-barnes-feels-student-led-conflict-resolution-needed-in-schools-angel-pinto/70170843007/">Student-led Conflict Resolution</a></li>
             <li><a href="https://twitter.com/mnicholson_mike/status/1657194523213086721">Student Panel</a></li>
+            <li><a href="https://podcasts.apple.com/us/podcast/the-assistant-principal-podcast/id1582998564?i=1000617757795">The Assistant Principal Podcast: Retribution vs Restoration</a></li>
             <li><a href="https://podcasts.apple.com/us/podcast/episode-15-school-transformation-begins-with-the-adults/id1653176434?i=1000613201573">Schoolin' Around: School Transformation Begins with Adults</a></li>
             <li><a href="https://www.besproutable.com/podcasts/eps-391-navigating-school-boards-with-aj-crabill/">Joyful Courage: Navigating School Boards</a></li>
             <li><a href="https://buzzingwithmsb.libsyn.com/ep-133">Buzzing with Ms. B: Changing Adult Mindsets</a></li>
