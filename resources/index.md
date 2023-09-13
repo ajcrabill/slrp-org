@@ -19,7 +19,9 @@ toplevel: Resources
 <ul>
             <li><a href="https://www.dispatch.com/story/special/2023/05/05/student-project-matt-barnes-feels-student-led-conflict-resolution-needed-in-schools-angel-pinto/70170843007/">Student-led Conflict Resolution</a></li>
             <li><a href="https://twitter.com/mnicholson_mike/status/1657194523213086721">Student Panel</a></li>
-            <li><a href="https://www.pastfoundation.org/post/198-rethinking-discipline-a-journey-into-student-led-restorative-education-with-aj-crabill-part-1">Rethinking Discipline</a></li>
+            <li><a href="https://www.pastfoundation.org/post/198-rethinking-discipline-a-journey-into-student-led-restorative-education-with-aj-crabill-part-1">Rethinking Discipline (part 1)</a></li>
+            <li><a href="https://www.pastfoundation.org/post/199-rethinking-discipline-a-journey-into-student-led-restorative-education-with-aj-crabill-part-2">Rethinking Discipline (part 2)</a></li>
+            <li><a href="https://abc6onyourside.com/news/local/student-led-program-aims-to-resolve-conflict-in-columbus-city-schools-aj-crabill-restorative-practice-social-emotional-training#">Student led program aims to resolve conflict</a></li>
             <li><a href="https://podcasts.apple.com/us/podcast/the-assistant-principal-podcast/id1582998564?i=1000617757795">The Assistant Principal Podcast: Retribution vs Restoration</a></li>
             <li><a href="https://podcasts.apple.com/us/podcast/episode-15-school-transformation-begins-with-the-adults/id1653176434?i=1000613201573">Schoolin' Around: School Transformation Begins with Adults</a></li>
             <li><a href="https://www.besproutable.com/podcasts/eps-391-navigating-school-boards-with-aj-crabill/">Joyful Courage: Navigating School Boards</a></li>
