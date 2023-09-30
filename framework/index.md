@@ -6,6 +6,14 @@ toplevel: Framework
 # toplevellink: /framework
 ---
 <h5>Overview</h5>
+The strongest improvements in student outcomes emerge at the confluence of a 
+highly engaged learner and a highly effective educator. The ideal culture and 
+climate, then, is one that creates learner engagement by maximizing student 
+agency, autonomy, and empathy. And it’s one that supports educator 
+effectiveness by freeing them up to focus on instructional delivery. Both of 
+these strategies are brought to life through Student-Led Restorative Practices.
+<br/><br/>
+
 The intention of the Student-Led Restorative Practices framework is invite a reimagining of the role of students in creating effective learning environments. SLRP does this by translating existing research and the collective experience of students and educators across the country into a set of tools that student-led Restorative Leadership Teams (RLTs) can use to identify their implementation strengths and weaknesses as well as to track progress along their journey toward improving student outcomes. 
 <br/><br/>
 The framework is built around six competencies that correlate with improvements in building culture and climate: Leadership, Goals, Community Circles, Mediation Circles, Restorative Circles, and Continuous Improvement.
