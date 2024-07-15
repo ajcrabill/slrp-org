@@ -45,7 +45,7 @@ Unless there is a demonstration of learning (DoL) defined in the competency, eac
 
 <h5>Restorative Skill</h5>
 <ol>
-<li>Communicate the difference between inputs, outputs, outcomes, and why it matters
+<li>Communicate the difference between inputs, outputs, outcomes, and why it matters</li>
 <li>Communicate the difference between adult outcomes and student outcomes, and why it matters</li>
 <li>Conduct a quarterly self evaluation for at least 3 different schools </li>
 <li>Demonstrate Awareness/Acknowledgement/Aligned-Action (accountability & responsibility)</li>
