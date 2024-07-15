@@ -76,9 +76,9 @@ Unless there is a demonstration of learning (DoL) defined in the competency, eac
 <h5>Coaching Knowledge</h5>
 <ol>
 <li>Distinguish between inputs, outputs, and outcomes</li>
-<li>Summarize observations of at least 2 SLRP workshops (ideally that are led by at least 2 different SLRP coaches)</li>
 <li>Distinguish between low and high quality goals</li>
 <li>Distinguish between low and high quality interim goals</li>
+<li>Summarize observations of at least 2 SLRP workshops (ideally that are led by at least 2 different SLRP coaches)</li>
 <li>Summarize the similarities and differences of the student code of conduct/student discipline systems for school systems from five different states</li>
 <li>Summarize the similarities and differences of the statutory frameworks concerning student discipline for school boards for five different states</li>
 <li>Individually summarize learnings from each of the following five SLRP recommended readings:
