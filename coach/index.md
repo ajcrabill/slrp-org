@@ -8,11 +8,11 @@ toplevel: Coach
 
 Certification as an SLRP Coach last three years and requires a deep understanding of the Student-Led Restorative Practices framework, the ability to demonstrate that understanding in practice, and the ability to support district- and school-based restorative practices teams through its implementation. These competencies are revealed through demonstrations of learning regarding:
 <ol>
-<li>Restorative Knowledge (RK 1-12)</li>
-<li>Restorative Skill (RS 1-9)</li>
-<li>Restorative Mindset (RM 1-3)</li>
+<li>Restorative Knowledge (RK 1-10)</li>
+<li>Restorative Skill (RS 1-7)</li>
+<li>Restorative Mindset (RM 1-4)</li>
 <li>Coaching Knowledge (CK 1-7)</li>
-<li>Coaching Skill (CS 1-6)</li>
+<li>Coaching Skill (CS 1-7)</li>
 <li>Coaching Mindset (CM 1-6)</li>
 </ol><br/>
 
