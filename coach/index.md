@@ -6,7 +6,7 @@ toplevel: Coach
 # toplevellink: /coach
 ---
 
-Certification as an SLRP Coach last three years and requires a deep understanding of the Student-Led Restorative Practices framework, the ability to demonstrate that understanding in practice, and the ability to support district- and school-based restorative practices teams through its implementation. These competencies are revealed through demonstrations of learning regarding:
+Once certified, certification as an SLRP Coach lasts for three years and requires a deep understanding of the Student-Led Restorative Practices framework, the ability to demonstrate that understanding in practice, and the ability to support district- and school-based restorative practices teams through its implementation. These competencies are revealed through demonstrations of learning regarding:
 <ol>
 <li>Restorative Knowledge (RK 1-10)</li>
 <li>Restorative Skill (RS 1-7)</li>
