@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Book"
+title: "Our Tools They Deserve"
 summary: "Our Tools They Deserve"
 toplevel: Book
 # toplevellink: /book
