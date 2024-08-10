@@ -8,6 +8,7 @@ toplevel: Resources
 
 <h5>SLRP Tools</h5>
 <ul>
+<li><a href="/resources/book">Our Tools They Deserve: Why Adults Choose Retribution, How Students Can Practice Restoration</a></li>
 <li><a href="/resources/challenges">Common Implementation Challenges</a></li>
 <li><a href="/resources/mistakes">Common Implementation Mistakes</a></li>
 <li><a href="/resources/glossary">Glossary</a></li>
