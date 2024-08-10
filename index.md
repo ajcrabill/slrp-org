@@ -14,4 +14,5 @@ powerful things can happen. But schools rarely do.<br/><br/>
 <strong>We want to help change that.</strong></h4><br/>
 
 <a href="/framework" class="btn-get-started scrollto">The SLRP Framework</a> 
-<a href="/resources" class="btn-get-started scrollto">Learn More</a>               
+<a href="/resources" class="btn-get-started scrollto">Learn More</a> 
+<a href="/book" class="btn-get-started scrollto">Get The Book</a>             
