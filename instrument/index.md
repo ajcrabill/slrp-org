@@ -11,9 +11,9 @@ highly engaged learner and a highly effective educator. The ideal culture and
 climate, then, is one that creates learner engagement by maximizing student 
 agency, autonomy, and empathy. And it’s one that supports educator 
 effectiveness by freeing them up to focus on instructional delivery. Both of 
-these strategies are brought to life through Student-Led Restorative Practices.
+these strategies are brought to life through Student Led Restorative Practices.
 <br/><br/>
-The intention of the Student-Led Restorative Practices Implementation Instrument is to invite a reimagining of the role of students in creating effective learning environments. SLRP does this by translating existing research and the collective experience of students and educators across the country into a set of tools that student-led Restorative Leadership Teams (RLTs) can use to identify their implementation strengths and weaknesses as well as to track progress along their journey toward improving student outcomes. 
+The intention of the Student Led Restorative Practices Implementation Instrument is to invite a reimagining of the role of students in creating effective learning environments. SLRP does this by translating existing research and the collective experience of students and educators across the country into a set of tools that student led Restorative Leadership Teams (RLTs) can use to identify their implementation strengths and weaknesses as well as to track progress along their journey toward improving student outcomes. 
 <br/><br/>
 The implementation instrument is built around six competencies that correlate with improvements in building culture and climate: Leadership, Goals, Community Circles, Mediation Circles, Restorative Circles, and Continuous Improvement.
 <br/><br/>
@@ -629,7 +629,7 @@ Next Step, Who's Responsible & By When:
 
 &#9723; The RLT discusses student behaviors and interventions for students at risk.<br/><br/>
 
-&#9723; The RLT has hosted and the RLT members have led or co-led at least one training on Student-Led Restorative Practices for its community during the previous 12 month period.<br/><br/>
+&#9723; The RLT has hosted and the RLT members have led or co-led at least one training on Student Led Restorative Practices for its community during the previous 12 month period.<br/><br/>
 
   </td>
   <td class="MasteringBody">
@@ -641,7 +641,7 @@ Next Step, Who's Responsible & By When:
 
 &#9723; The RLT self-evaluates using this SLRP instrument at least quarterly, preferably monthly.<br/><br/>
 
-&#9723; RLT members included students in at least one of the Student-Led Restorative Practice trainings during the previous 12 month period.
+&#9723; RLT members included students in at least one of the Student Led Restorative Practice trainings during the previous 12 month period.
 <br/><br/>
 
   </td>
