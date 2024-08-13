@@ -1,9 +1,9 @@
 ---
 layout: base
-title: "The SLRP Framework"
-summary: "This framework helps us gauge our progress."
-toplevel: Framework
-# toplevellink: /framework
+title: "The SLRP Instrument"
+summary: "This instrument helps us gauge our progress."
+toplevel: Instrument
+# toplevellink: /instrument
 ---
 <h5>Overview</h5>
 The strongest improvements in student outcomes emerge at the confluence of a 
@@ -13,14 +13,14 @@ agency, autonomy, and empathy. And it’s one that supports educator
 effectiveness by freeing them up to focus on instructional delivery. Both of 
 these strategies are brought to life through Student-Led Restorative Practices.
 <br/><br/>
-The intention of the Student-Led Restorative Practices framework is to invite a reimagining of the role of students in creating effective learning environments. SLRP does this by translating existing research and the collective experience of students and educators across the country into a set of tools that student-led Restorative Leadership Teams (RLTs) can use to identify their implementation strengths and weaknesses as well as to track progress along their journey toward improving student outcomes. 
+The intention of the Student-Led Restorative Practices Implementation Instrument is to invite a reimagining of the role of students in creating effective learning environments. SLRP does this by translating existing research and the collective experience of students and educators across the country into a set of tools that student-led Restorative Leadership Teams (RLTs) can use to identify their implementation strengths and weaknesses as well as to track progress along their journey toward improving student outcomes. 
 <br/><br/>
-The framework is built around six competencies that correlate with improvements in building culture and climate: Leadership, Goals, Community Circles, Mediation Circles, Restorative Circles, and Continuous Improvement.
+The implementation instrument is built around six competencies that correlate with improvements in building culture and climate: Leadership, Goals, Community Circles, Mediation Circles, Restorative Circles, and Continuous Improvement.
 <br/><br/>
 
 
 <h5>How To Use</h5>
-This document is best used by the RLT with guidance from a facilitator specifically trained in its application. After receiving an orientation to the framework, each individual RLT member should fill out the Restorative Practices Quarterly Self Evaluation. Using the self evaluation instrument will reveal a score between 0 and 100, where a 0 indicates that the RLT is not at all focused (yet) on its restorative goals and a 100 which indicates that the RLT has mastered the behavior of focusing on restorative practices. Then the facilitator should lead the RLT through a process of collectively completing the self evaluation for the first time. This will create the RLT’s starting point data which, in addition to providing a measurable score, provides the RLT with clarity about its strengths and weaknesses relative to being focused on implementing restorative practices. 
+This document is best used by the RLT with guidance from a facilitator specifically trained in its application. After receiving an orientation to the implementation instrument, each individual RLT member should fill out the Restorative Practices Quarterly Self Evaluation. Using the self evaluation instrument will reveal a score between 0 and 100, where a 0 indicates that the RLT is not at all focused (yet) on its restorative goals and a 100 which indicates that the RLT has mastered the behavior of focusing on restorative practices. Then the facilitator should lead the RLT through a process of collectively completing the self evaluation for the first time. This will create the RLT’s starting point data which, in addition to providing a measurable score, provides the RLT with clarity about its strengths and weaknesses relative to being focused on implementing restorative practices. 
  <br/><br/>
 
 
@@ -59,7 +59,7 @@ This document is best used by the RLT with guidance from a facilitator specifica
 
 
 
-<h5>Student-Led Restorative Practices Framework</h5>
+<h5>Student Led Restorative Practices Implementation Instrument</h5>
 <div class="InstrumentTable">
   <table>
       <tr>
