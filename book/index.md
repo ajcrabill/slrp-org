@@ -14,10 +14,10 @@ toplevel: Book
 <a href="https://tinyurl.com/OTTD-Signup" class="get-started-btn scrollto">Be Notified</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://youtu.be/CKJW-tvN5gs" class="get-started-btn scrollto">Watch A Video</a>
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 <h4>Willing to leave an online book review or support with sharing about the book? I'd greatly appreciate it.</h4><br/><br/>
 
-<a href="https://tinyurl.com/OTTD-Acceleration-Team" class="get-started-btn scrollto">Read The Intro</a> 
+<a href="https://tinyurl.com/OTTD-Acceleration-Team" class="get-started-btn scrollto">Spread The Word</a> 
 
 </center>
