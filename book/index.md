@@ -6,7 +6,7 @@ toplevel: Book
 # toplevellink: /book
 ---
 <center>
-  <img src="/assets/img/ottd-ebook-cover.jpg" width="300px"><br/>
+  <a href="https://www.amazon.com/Our-Tools-They-Deserve-Retribution/dp/196401445X/"><img src="/assets/img/ottd-ebook-cover.jpg" width="300px" border=0></a><br/>
 <h4>"Our Tools They Deserve" is about how we can better position students to experience and achieve their full potential.</h4><br/>
 
 <h4>Use the links below to get your own copy, to read the introduction to the book, access book-related resources, or watch a video about the work described in the book.</h4><br/><br/>
@@ -18,8 +18,8 @@ toplevel: Book
 
 <br/><br/><br/><br/>
 
-<h4>Willing to leave an online book review or support with sharing about the book? I'd greatly appreciate it.</h4><br/><br/>
+<!--<h4>Willing to leave an online book review or support with sharing about the book? I'd greatly appreciate it.</h4><br/><br/>
 
-<a href="https://tinyurl.com/OTTD-Acceleration-Team" class="get-started-btn scrollto">Spread The Word</a> 
+<a href="https://tinyurl.com/OTTD-Acceleration-Team" class="get-started-btn scrollto">Spread The Word</a> -->
 
 </center>
