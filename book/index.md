@@ -6,12 +6,14 @@ toplevel: Book
 # toplevellink: /book
 ---
 <center>
-<h4>In October, my new book, "Our Tools They Deserve" comes out. This book is about how we can better position students to experience and achieve their full potential.</h4><br/>
+  <img src="/assets/img/ottd-ebook-cover.jpg" width="300px"><br/>
+<h4>"Our Tools They Deserve" is about how we can better position students to experience and achieve their full potential.</h4><br/>
 
-<h4>Use the links below to read the introduction to the book, be notified via email when the book comes out, or watch a video about the work described in the book.</h4><br/><br/>
+<h4>Use the links below to get your own copy, to read the introduction to the book, access book-related resources, or watch a video about the work described in the book.</h4><br/><br/>
 
+<a href="https://www.amazon.com/Our-Tools-They-Deserve-Retribution/dp/196401445X/" class="get-started-btn scrollto">Get A Copy</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://tinyurl.com/Our-Tools-They-Deserve-Intro" class="get-started-btn scrollto">Read The Intro</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://tinyurl.com/OTTD-Signup" class="get-started-btn scrollto">Be Notified</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/resources/" class="get-started-btn scrollto">Resources</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://youtu.be/CKJW-tvN5gs" class="get-started-btn scrollto">Watch A Video</a>
 
 <br/><br/><br/><br/>
