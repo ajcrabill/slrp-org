@@ -108,7 +108,7 @@ These are all tools that successful adults learn and that our students deserve. 
 </table>
 
 <br/><br/>
-This chart is from chapter 1 of, "<a href="/book/">Our Tools They Deserve</a>.
+This chart is from chapter 2 of, "<a href="/book/">Our Tools They Deserve</a>.
 
 
 
