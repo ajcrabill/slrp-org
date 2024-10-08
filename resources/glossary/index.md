@@ -45,9 +45,6 @@ toplevellink: /resources
 <strong>Interpretation</strong>: An assessment, judgment, or opinion about an observation. Related: Observation
 <br/><br/>
 
-<strong>Student-Led Restorative Practices (SLRP)</strong>: The State of Texas’ continuous improvement framework for campuses that choose to be intensely focused on improving student outcomes through implementation of restorative practices. Restorative Leadership Teams (RLTs) that implement the SLRP framework with integrity understand that student outcomes don’t change until adult behaviors change. Starting with me.
-<br/><br/>
-
 <strong>Observation</strong>: A noticing of what has measurably happened. Related: Interpretation
 <br/><br/>
 
