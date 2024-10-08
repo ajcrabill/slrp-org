@@ -19,7 +19,7 @@ These are all tools that successful adults learn and that our students deserve. 
 <br/><br/>
 
 
-<table>
+<table border=1>
 <tr>
   <td>A Student Led Approach To Restorative Practices Uses These Basic Practices</td>
   <td>Those Practices Cultivate These Tools</td>
