@@ -5,6 +5,11 @@ summary: "This instrument helps us gauge our progress."
 toplevel: Chart
 # toplevellink: /resources/chart/
 ---
+
+<style type="text/css">
+table, th, td {border: 1px solid black;}
+</style>
+
 <h5>Restorative Practices Overview Chart</h5>
 Trained and experienced adults could initially implement Circles with a higher degree of effectiveness than could untrained or newly trained students. So why student led? The answer to that question sets up many of the choices in this framework: because whomever is leading the Circles is growing their familiarity with and fluency with the tools needed to effectively lead Circles. 
 <br/><br/>
@@ -19,7 +24,7 @@ These are all tools that successful adults learn and that our students deserve. 
 <br/><br/>
 
 
-<table style="table, th, td {border: 1px solid black;}">
+<table>
 <tr>
   <td>A Student Led Approach To Restorative Practices Uses These Basic Practices</td>
   <td>Those Practices Cultivate These Tools</td>
