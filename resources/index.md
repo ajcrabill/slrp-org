@@ -10,6 +10,7 @@ toplevel: Resources
 <ul>
 <li><a href="/book">Our Tools They Deserve: Why Adults Choose Retribution, How Students Can Practice Restoration</a></li>
 <li><a href="http://tinyurl.com/SLRP-Guide">Student-Led Restorative Practices Guide</a></li>
+<li><a href="/resources/podcast/">Podcast-style Summary of, "Our Tools They Deserve"</a>a></li>
 <li><a href="/resources/challenges">Common Implementation Challenges</a></li>
 <li><a href="/resources/mistakes">Common Implementation Mistakes</a></li>
 <li><a href="/resources/glossary">Glossary</a></li>
