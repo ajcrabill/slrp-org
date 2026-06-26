@@ -3,6 +3,6 @@ title: "Student-Led Restorative Practices"
 gems:
 - jekyll-seo-tag
 permalink: date
+show_excerpts: true
 posts:
   output: true
-  
