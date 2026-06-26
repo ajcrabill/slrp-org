@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jasmine Was Using the Best Tool She Had"
-date: 2026-06-29 00:00:00 -0500
+date: 2026-06-26 00:00:00 -0500
 author: ajc
 reading_time: "7 min"
 excerpt: "She had beaten up two girls on the last day of school—at the same time. We spent the summer teaching her tools, not lessons about why fighting is wrong. The difference between those two approaches is the difference between this whole work."
