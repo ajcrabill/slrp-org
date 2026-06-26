@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&family=Nunito+Sans:wght@300;400;600&display=swap');
+
+:root {
+  --blue: #1ab3e8;
+  --green: #27b572;
+  --dark: #1a2a3a;
+}
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 400;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+}
+
+/* Nav */
+#header, header {
+  background: #fff !important;
+  border-bottom: 2px solid #1ab3e8 !important;
+  box-shadow: none !important;
+}
+
+.navbar a, nav a, .nav-link {
+  color: #333 !important;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.navbar a:hover, nav a:hover, .nav-link:hover {
+  color: #1ab3e8 !important;
+}
+
+/* Hero */
+#hero, .hero, section#hero {
+  background: #1ab3e8 !important;
+}
+
+#hero h1, .hero h1 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+  color: #fff !important;
+  font-size: 2rem;
+  line-height: 1.35;
+}
+
+#hero h2, .hero h2 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 400;
+  color: rgba(255,255,255,0.85) !important;
+  font-style: italic;
+  font-size: 1.25rem;
+}
+
+#hero p, .hero p {
+  color: rgba(255,255,255,0.8) !important;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+/* Primary CTA button */
+.btn-get-started, a.btn-get-started {
+  background: #fff !important;
+  color: #1ab3e8 !important;
+  border: none !important;
+  border-radius: 4px !important;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 13px 28px !important;
+  letter-spacing: 0.3px;
+}
+
+.btn-get-started:hover {
+  background: #f0faff !important;
+}
+
+/* Secondary CTA */
+.btn-get-started + .btn-get-started,
+a.btn-get-started:nth-of-type(2) {
+  background: #27b572 !important;
+  color: #fff !important;
+}
+
+/* Sections */
+section.features, section.services, .section-bg {
+  background: #f8fafe !important;
+}
+
+/* Cards */
+.card, .feature-box, .icon-box {
+  border-top: 3px solid #1ab3e8 !important;
+}
+
+.icon-box h4, .feature-box h4 {
+  color: #1ab3e8 !important;
+}
+
+/* Primary color replacements */
+a { color: #1ab3e8; }
+a:hover { color: #27b572; }
+
+.section-title h2 {
+  color: #1a2a3a !important;
+}
+
+.section-title h2::after {
+  background: #1ab3e8 !important;
+}
+
+/* Stats/counts */
+.count-box span, .stats-count {
+  color: #1ab3e8 !important;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+}
+
+/* Footer */
+#footer, footer {
+  background: #1a2a3a !important;
+}
+
+/* Breadcrumbs */
+.breadcrumbs {
+  background: #f0faff !important;
+  border-bottom: 1px solid #d0eef8 !important;
+}
+
+.breadcrumbs h2 { color: #1a2a3a !important; }
